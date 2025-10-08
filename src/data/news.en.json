@@ -1,0 +1,51 @@
+
+[
+  {
+    "id": "1",
+    "title": "ACEB Launches New Certification Program for Circular Economy Professionals",
+    "date": "2024-03-15",
+    "excerpt": "We are excited to announce the launch of our comprehensive three-level certification program designed to enhance professional skills in circular economy practices.",
+    "content": "The new certification program offers three distinct levels of professional development, from foundational knowledge to expert-level expertise in circular economy implementation.",
+    "slug": "aceb-launches-certification-program"
+  },
+  {
+    "id": "2",
+    "title": "Partnership with Leading Balkans Universities Announced",
+    "date": "2024-02-28",
+    "excerpt": "ACEB has established strategic partnerships with five leading universities across the Balkans region to integrate circular economy curriculum into their programs.",
+    "content": "This partnership will help educate the next generation of professionals in sustainable economic practices.",
+    "slug": "partnership-balkans-universities"
+  },
+  {
+    "id": "3",
+    "title": "First Annual Circular Economy Summit Successfully Concluded",
+    "date": "2024-02-10",
+    "excerpt": "Over 200 professionals from across the region gathered in Belgrade for our inaugural summit focusing on sustainable business practices and circular economy innovation.",
+    "content": "The summit featured keynote speakers from leading international organizations and showcased successful circular economy implementations.",
+    "slug": "first-annual-summit-concluded"
+  },
+  {
+    "id": "4",
+    "title": "New Research Report: Circular Economy Opportunities in the Western Balkans",
+    "date": "2024-01-20",
+    "excerpt": "Our latest research identifies key opportunities and challenges for circular economy adoption across Western Balkan countries.",
+    "content": "The comprehensive report analyzes current practices and provides recommendations for policy makers and business leaders.",
+    "slug": "research-report-western-balkans"
+  },
+  {
+    "id": "5",
+    "title": "ACEB Welcomes 100th Certified Member",
+    "date": "2024-01-05",
+    "excerpt": "We celebrate a significant milestone as ACEB welcomes its 100th certified circular economy professional to our growing network.",
+    "content": "This achievement demonstrates the growing interest and commitment to circular economy practices in our region.",
+    "slug": "100th-certified-member"
+  },
+  {
+    "id": "6",
+    "title": "Collaboration with EU Green Deal Initiative",
+    "date": "2023-12-15",
+    "excerpt": "ACEB has been selected to participate in the EU Green Deal initiative, supporting circular economy transition across Southeast Europe.",
+    "content": "This collaboration will provide additional resources and expertise to accelerate circular economy adoption in the Balkans.",
+    "slug": "eu-green-deal-collaboration"
+  }
+]

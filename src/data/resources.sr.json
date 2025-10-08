@@ -1,0 +1,111 @@
+
+[
+  {
+    "id": "1",
+    "title": "Uvod u principe cirkularne ekonomije",
+    "description": "Sveobuhvatan vodič za razumevanje osnovnih principa i koncepata cirkularne ekonomije.",
+    "type": "guide",
+    "sector": "Opšte",
+    "year": 2024,
+    "downloadLink": "/resources/uvod-cirkularna-ekonomija.pdf"
+  },
+  {
+    "id": "2",
+    "title": "Cirkularni poslovni modeli u proizvodnji",
+    "description": "Istraživački članak koji istražuje uspešne implementacije cirkularne ekonomije u sektoru proizvodnje na Balkanu.",
+    "type": "article",
+    "sector": "Proizvodnja",
+    "year": 2024,
+    "downloadLink": "/resources/cirkularna-proizvodnja.pdf"
+  },
+  {
+    "id": "3",
+    "title": "Godišnji izveštaj o napretku cirkularne ekonomije",
+    "description": "Sveobuhvatna analiza napretka i trendova cirkularne ekonomije u zemljama Jugoistočne Evrope.",
+    "type": "report",
+    "sector": "Politika",
+    "year": 2024,
+    "downloadLink": "/resources/godisnji-izvestaj-2024.pdf"
+  },
+  {
+    "id": "4",
+    "title": "Upravljanje otpadom u cirkularnim sistemima",
+    "description": "Vodič najboljih praksi za implementaciju cirkularnih sistema upravljanja otpadom u urbanim sredinama.",
+    "type": "guide",
+    "sector": "Upravljanje otpadom",
+    "year": 2023,
+    "downloadLink": "/resources/vodic-upravljanje-otpadom.pdf"
+  },
+  {
+    "id": "5",
+    "title": "Digitalne tehnologije za cirkularnu ekonomiju",
+    "description": "Analiza kako digitalne tehnologije mogu ubrzati tranziciju cirkularne ekonomije u regionu.",
+    "type": "article",
+    "sector": "Tehnologija",
+    "year": 2023,
+    "downloadLink": "/resources/digitalna-cirkularna-ekonomija.pdf"
+  },
+  {
+    "id": "6",
+    "title": "Politički okvir cirkularne ekonomije",
+    "description": "Sveobuhvatan izveštaj o preporukama politike za podršku razvoju cirkularne ekonomije.",
+    "type": "report",
+    "sector": "Politika",
+    "year": 2023,
+    "downloadLink": "/resources/politicki-okvir.pdf"
+  },
+  {
+    "id": "7",
+    "title": "Održive poljoprivredne prakse",
+    "description": "Vodič za implementaciju principa cirkularne ekonomije u poljoprivrednim sistemima i proizvodnji hrane.",
+    "type": "guide",
+    "sector": "Poljoprivreda",
+    "year": 2023,
+    "downloadLink": "/resources/odrziva-poljoprivreda.pdf"
+  },
+  {
+    "id": "8",
+    "title": "Energetska tranzicija i cirkularna ekonomija",
+    "description": "Istraživanje o preseku tranzicije obnovljive energije i principa cirkularne ekonomije.",
+    "type": "article",
+    "sector": "Energetika",
+    "year": 2022,
+    "downloadLink": "/resources/energija-cirkularna-ekonomija.pdf"
+  },
+  {
+    "id": "9",
+    "title": "MSP vodič za cirkularne poslovne modele",
+    "description": "Praktični vodič za mala i srednja preduzeća da usvoje cirkularne poslovne prakse.",
+    "type": "guide",
+    "sector": "Poslovanje",
+    "year": 2022,
+    "downloadLink": "/resources/msp-cirkularni-vodic.pdf"
+  },
+  {
+    "id": "10",
+    "title": "Regionalna procena cirkularne ekonomije",
+    "description": "Sveobuhvatna procena spremnosti cirkularne ekonomije širom balkanskih zemalja.",
+    "type": "report",
+    "sector": "Regionalno",
+    "year": 2022,
+    "downloadLink": "/resources/regionalna-procena.pdf"
+  },
+  {
+    "id": "11",
+    "title": "Cirkularne prakse u građevinarstvu",
+    "description": "Analiza usvajanja cirkularne ekonomije u sektoru građevinarstva i građevinskih materijala.",
+    "type": "article",
+    "sector": "Građevinarstvo",
+    "year": 2022,
+    "downloadLink": "/resources/gradjevinarstvo-cirkularno.pdf"
+  },
+  {
+    "id": "12",
+    "title": "Transformacija tekstilne industrije",
+    "description": "Studija slučaja o transformaciji cirkularne ekonomije u tekstilnoj i modnoj industriji.",
+    "type": "report",
+    "sector": "Tekstil",
+    "year": 2021,
+    "downloadLink": "/resources/tekstilna-transformacija.pdf"
+  }
+]

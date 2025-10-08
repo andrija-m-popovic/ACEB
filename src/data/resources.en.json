@@ -1,0 +1,111 @@
+
+[
+  {
+    "id": "1",
+    "title": "Introduction to Circular Economy Principles",
+    "description": "A comprehensive guide to understanding the fundamental principles and concepts of circular economy.",
+    "type": "guide",
+    "sector": "General",
+    "year": 2024,
+    "downloadLink": "/resources/intro-circular-economy.pdf"
+  },
+  {
+    "id": "2",
+    "title": "Circular Business Models in Manufacturing",
+    "description": "Research article exploring successful circular economy implementations in manufacturing sector across the Balkans.",
+    "type": "article",
+    "sector": "Manufacturing",
+    "year": 2024,
+    "downloadLink": "/resources/circular-manufacturing.pdf"
+  },
+  {
+    "id": "3",
+    "title": "Annual Report on Circular Economy Progress",
+    "description": "Comprehensive analysis of circular economy progress and trends in Southeast European countries.",
+    "type": "report",
+    "sector": "Policy",
+    "year": 2024,
+    "downloadLink": "/resources/annual-report-2024.pdf"
+  },
+  {
+    "id": "4",
+    "title": "Waste Management in Circular Systems",
+    "description": "Best practices guide for implementing circular waste management systems in urban environments.",
+    "type": "guide",
+    "sector": "Waste Management",
+    "year": 2023,
+    "downloadLink": "/resources/waste-management-guide.pdf"
+  },
+  {
+    "id": "5",
+    "title": "Digital Technologies for Circular Economy",
+    "description": "Analysis of how digital technologies can accelerate circular economy transition in the region.",
+    "type": "article",
+    "sector": "Technology",
+    "year": 2023,
+    "downloadLink": "/resources/digital-circular-economy.pdf"
+  },
+  {
+    "id": "6",
+    "title": "Circular Economy Policy Framework",
+    "description": "Comprehensive report on policy recommendations for supporting circular economy development.",
+    "type": "report",
+    "sector": "Policy",
+    "year": 2023,
+    "downloadLink": "/resources/policy-framework.pdf"
+  },
+  {
+    "id": "7",
+    "title": "Sustainable Agriculture Practices",
+    "description": "Guide to implementing circular economy principles in agricultural systems and food production.",
+    "type": "guide",
+    "sector": "Agriculture",
+    "year": 2023,
+    "downloadLink": "/resources/sustainable-agriculture.pdf"
+  },
+  {
+    "id": "8",
+    "title": "Energy Transition and Circular Economy",
+    "description": "Research on the intersection of renewable energy transition and circular economy principles.",
+    "type": "article",
+    "sector": "Energy",
+    "year": 2022,
+    "downloadLink": "/resources/energy-circular-economy.pdf"
+  },
+  {
+    "id": "9",
+    "title": "SME Guide to Circular Business Models",
+    "description": "Practical guide for small and medium enterprises to adopt circular business practices.",
+    "type": "guide",
+    "sector": "Business",
+    "year": 2022,
+    "downloadLink": "/resources/sme-circular-guide.pdf"
+  },
+  {
+    "id": "10",
+    "title": "Regional Circular Economy Assessment",
+    "description": "Comprehensive assessment of circular economy readiness across Balkan countries.",
+    "type": "report",
+    "sector": "Regional",
+    "year": 2022,
+    "downloadLink": "/resources/regional-assessment.pdf"
+  },
+  {
+    "id": "11",
+    "title": "Construction Industry Circular Practices",
+    "description": "Analysis of circular economy adoption in construction and building materials sector.",
+    "type": "article",
+    "sector": "Construction",
+    "year": 2022,
+    "downloadLink": "/resources/construction-circular.pdf"
+  },
+  {
+    "id": "12",
+    "title": "Textile Industry Transformation",
+    "description": "Case study report on circular economy transformation in the textile and fashion industry.",
+    "type": "report",
+    "sector": "Textile",
+    "year": 2021,
+    "downloadLink": "/resources/textile-transformation.pdf"
+  }
+]

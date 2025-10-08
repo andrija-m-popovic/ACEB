@@ -1,0 +1,123 @@
+
+[
+  {
+    "id": "1",
+    "name": "Dr. Ana Marković",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "licenseLevel": "III",
+    "status": "Active",
+    "email": "ana.markovic@example.com",
+    "organization": "Green Business Solutions"
+  },
+  {
+    "id": "2",
+    "name": "Marko Petrović",
+    "city": "Zagreb",
+    "country": "Croatia",
+    "licenseLevel": "II",
+    "status": "Active",
+    "email": "marko.petrovic@example.com",
+    "organization": "Sustainable Consulting Group"
+  },
+  {
+    "id": "3",
+    "name": "Dr. Elena Nikolova",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "licenseLevel": "III",
+    "status": "Active",
+    "email": "elena.nikolova@example.com",
+    "organization": "Circular Economy Institute"
+  },
+  {
+    "id": "4",
+    "name": "Aleksandar Jovanović",
+    "city": "Novi Sad",
+    "country": "Serbia",
+    "licenseLevel": "I",
+    "status": "Active",
+    "email": "aleksandar.jovanovic@example.com",
+    "organization": "EcoTech Solutions"
+  },
+  {
+    "id": "5",
+    "name": "Maja Stojanović",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "licenseLevel": "II",
+    "status": "Active",
+    "email": "maja.stojanovic@example.com",
+    "organization": "Green Innovation Hub"
+  },
+  {
+    "id": "6",
+    "name": "Dr. Dragan Milosević",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "licenseLevel": "III",
+    "status": "Inactive",
+    "email": "dragan.milosevic@example.com",
+    "organization": "Regional Sustainability Center"
+  },
+  {
+    "id": "7",
+    "name": "Ivana Popović",
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "licenseLevel": "I",
+    "status": "Active",
+    "email": "ivana.popovic@example.com",
+    "organization": "Circular Business Partners"
+  },
+  {
+    "id": "8",
+    "name": "Stefan Dimitrov",
+    "city": "Plovdiv",
+    "country": "Bulgaria",
+    "licenseLevel": "II",
+    "status": "Active",
+    "email": "stefan.dimitrov@example.com",
+    "organization": "Sustainable Development Agency"
+  },
+  {
+    "id": "9",
+    "name": "Dr. Milica Radović",
+    "city": "Niš",
+    "country": "Serbia",
+    "licenseLevel": "III",
+    "status": "Active",
+    "email": "milica.radovic@example.com",
+    "organization": "ACEB Research Center"
+  },
+  {
+    "id": "10",
+    "name": "Nikola Kostić",
+    "city": "Podgorica",
+    "country": "Montenegro",
+    "licenseLevel": "I",
+    "status": "Active",
+    "email": "nikola.kostic@example.com",
+    "organization": "Environmental Solutions Ltd"
+  },
+  {
+    "id": "11",
+    "name": "Dr. Vesna Stanković",
+    "city": "Split",
+    "country": "Croatia",
+    "licenseLevel": "III",
+    "status": "Active",
+    "email": "vesna.stankovic@example.com",
+    "organization": "Adriatic Circular Economy Network"
+  },
+  {
+    "id": "12",
+    "name": "Jovana Mitrović",
+    "city": "Kragujevac",
+    "country": "Serbia",
+    "licenseLevel": "II",
+    "status": "Inactive",
+    "email": "jovana.mitrovic@example.com",
+    "organization": "Central Serbia Eco Solutions"
+  }
+]

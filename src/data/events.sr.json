@@ -1,0 +1,75 @@
+
+[
+  {
+    "id": "1",
+    "title": "Radionica cirkularne ekonomije: Od teorije do prakse",
+    "date": "2024-04-15",
+    "location": "Beograd, Srbija",
+    "description": "Praktična radionica fokusirana na praktičnu implementaciju principa cirkularne ekonomije u poslovnim operacijama.",
+    "registrationLink": "#registration",
+    "status": "upcoming"
+  },
+  {
+    "id": "2",
+    "title": "Međunarodna konferencija: Održiva budućnost Balkana",
+    "date": "2024-05-20",
+    "location": "Zagreb, Hrvatska",
+    "description": "Pridružite se vodećim ekspertima i kreatorima politike koji diskutuju o održivoj transformaciji ekonomija Jugoistočne Evrope.",
+    "registrationLink": "#registration",
+    "status": "upcoming"
+  },
+  {
+    "id": "3",
+    "title": "Ispít za licenciranje - Nivo I",
+    "date": "2024-06-10",
+    "location": "Online",
+    "description": "Ispit prvog nivoa za osnovno znanje cirkularne ekonomije.",
+    "registrationLink": "#registration",
+    "status": "upcoming"
+  },
+  {
+    "id": "4",
+    "title": "Networking događaj: Inovatori cirkularne ekonomije",
+    "date": "2024-07-25",
+    "location": "Skoplje, Severna Makedonija",
+    "description": "Povežite se sa kolegama profesionalcima i istražite inovativna rešenja cirkularne ekonomije u regionu.",
+    "registrationLink": "#registration",
+    "status": "upcoming"
+  },
+  {
+    "id": "5",
+    "title": "Godišnji ACEB summit 2024",
+    "date": "2024-09-12",
+    "location": "Sarajevo, Bosna i Hercegovina",
+    "description": "Naš glavni godišnji događaj koji okuplja celu zajednicu cirkularne ekonomije Balkana.",
+    "registrationLink": "#registration",
+    "status": "upcoming"
+  },
+  {
+    "id": "6",
+    "title": "Prva ACEB godišnja konferencija",
+    "date": "2024-02-10",
+    "location": "Beograd, Srbija",
+    "description": "Naša inaugural godišnja konferencija uključivala je prezentacije regionalnih i međunarodnih eksperata o praksama cirkularne ekonomije.",
+    "registrationLink": "#",
+    "status": "past"
+  },
+  {
+    "id": "7",
+    "title": "Radionica cirkularnih poslovnih modela",
+    "date": "2023-11-15",
+    "location": "Ljubljana, Slovenija",
+    "description": "Interaktivna radionica koja istražuje inovativne poslovne modele koji podržavaju principe cirkularne ekonomije.",
+    "registrationLink": "#",
+    "status": "past"
+  },
+  {
+    "id": "8",
+    "title": "Forum politike: Zakonodavstvo cirkularne ekonomije",
+    "date": "2023-10-08",
+    "location": "Online",
+    "description": "Forum za diskusiju sa kreatorima politike o regulatornim okvirima koji podržavaju tranziciju cirkularne ekonomije.",
+    "registrationLink": "#",
+    "status": "past"
+  }
+]

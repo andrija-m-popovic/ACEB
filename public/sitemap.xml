@@ -1,0 +1,145 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://aceb.org/en</loc>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://aceb.org/sr" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aceb.org/en" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://aceb.org/sr</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aceb.org/en" />
+    <xhtml:link rel="alternate" hreflang="sr" href="https://aceb.org/sr" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://aceb.org/en/about</loc>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://aceb.org/sr/o-nama" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aceb.org/en/about" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aceb.org/sr/o-nama</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aceb.org/en/about" />
+    <xhtml:link rel="alternate" hreflang="sr" href="https://aceb.org/sr/o-nama" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aceb.org/en/membership</loc>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://aceb.org/sr/clanstvo" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aceb.org/en/membership" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aceb.org/sr/clanstvo</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aceb.org/en/membership" />
+    <xhtml:link rel="alternate" hreflang="sr" href="https://aceb.org/sr/clanstvo" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aceb.org/en/certification</loc>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://aceb.org/sr/licenciranje" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aceb.org/en/certification" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aceb.org/sr/licenciranje</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aceb.org/en/certification" />
+    <xhtml:link rel="alternate" hreflang="sr" href="https://aceb.org/sr/licenciranje" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aceb.org/en/knowledge</loc>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://aceb.org/sr/baza-znanja" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aceb.org/en/knowledge" />
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aceb.org/sr/baza-znanja</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aceb.org/en/knowledge" />
+    <xhtml:link rel="alternate" hreflang="sr" href="https://aceb.org/sr/baza-znanja" />
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aceb.org/en/events</loc>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://aceb.org/sr/dogadjaji" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aceb.org/en/events" />
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aceb.org/sr/dogadjaji</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aceb.org/en/events" />
+    <xhtml:link rel="alternate" hreflang="sr" href="https://aceb.org/sr/dogadjaji" />
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aceb.org/en/news</loc>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://aceb.org/sr/vesti" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aceb.org/en/news" />
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aceb.org/sr/vesti</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aceb.org/en/news" />
+    <xhtml:link rel="alternate" hreflang="sr" href="https://aceb.org/sr/vesti" />
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aceb.org/en/partners</loc>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://aceb.org/sr/partneri" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aceb.org/en/partners" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aceb.org/sr/partneri</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aceb.org/en/partners" />
+    <xhtml:link rel="alternate" hreflang="sr" href="https://aceb.org/sr/partneri" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aceb.org/en/contact</loc>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://aceb.org/sr/kontakt" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aceb.org/en/contact" />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://aceb.org/sr/kontakt</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aceb.org/en/contact" />
+    <xhtml:link rel="alternate" hreflang="sr" href="https://aceb.org/sr/kontakt" />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://aceb.org/en/directory</loc>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://aceb.org/sr/imenik" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aceb.org/en/directory" />
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aceb.org/sr/imenik</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aceb.org/en/directory" />
+    <xhtml:link rel="alternate" hreflang="sr" href="https://aceb.org/sr/imenik" />
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+</urlset>

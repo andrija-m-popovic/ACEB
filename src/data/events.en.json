@@ -1,0 +1,75 @@
+
+[
+  {
+    "id": "1",
+    "title": "Circular Economy Workshop: From Theory to Practice",
+    "date": "2024-04-15",
+    "location": "Belgrade, Serbia",
+    "description": "A hands-on workshop focusing on practical implementation of circular economy principles in business operations.",
+    "registrationLink": "#registration",
+    "status": "upcoming"
+  },
+  {
+    "id": "2",
+    "title": "International Conference: Sustainable Future of the Balkans",
+    "date": "2024-05-20",
+    "location": "Zagreb, Croatia",
+    "description": "Join leading experts and policymakers discussing the sustainable transformation of Southeast European economies.",
+    "registrationLink": "#registration",
+    "status": "upcoming"
+  },
+  {
+    "id": "3",
+    "title": "Certification Exam - Level I",
+    "date": "2024-06-10",
+    "location": "Online",
+    "description": "First-level certification exam for circular economy foundation knowledge.",
+    "registrationLink": "#registration",
+    "status": "upcoming"
+  },
+  {
+    "id": "4",
+    "title": "Networking Event: Circular Economy Innovators",
+    "date": "2024-07-25",
+    "location": "Skopje, North Macedonia",
+    "description": "Connect with fellow professionals and explore innovative circular economy solutions in the region.",
+    "registrationLink": "#registration",
+    "status": "upcoming"
+  },
+  {
+    "id": "5",
+    "title": "Annual ACEB Summit 2024",
+    "date": "2024-09-12",
+    "location": "Sarajevo, Bosnia and Herzegovina",
+    "description": "Our flagship annual event bringing together the entire circular economy community of the Balkans.",
+    "registrationLink": "#registration",
+    "status": "upcoming"
+  },
+  {
+    "id": "6",
+    "title": "First ACEB Annual Conference",
+    "date": "2024-02-10",
+    "location": "Belgrade, Serbia",
+    "description": "Our inaugural annual conference featured presentations from regional and international experts on circular economy practices.",
+    "registrationLink": "#",
+    "status": "past"
+  },
+  {
+    "id": "7",
+    "title": "Circular Business Models Workshop",
+    "date": "2023-11-15",
+    "location": "Ljubljana, Slovenia",
+    "description": "Interactive workshop exploring innovative business models that support circular economy principles.",
+    "registrationLink": "#",
+    "status": "past"
+  },
+  {
+    "id": "8",
+    "title": "Policy Forum: Circular Economy Legislation",
+    "date": "2023-10-08",
+    "location": "Online",
+    "description": "Discussion forum with policymakers about regulatory frameworks supporting circular economy transition.",
+    "registrationLink": "#",
+    "status": "past"
+  }
+]
